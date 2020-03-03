@@ -1,9 +1,9 @@
 {
     "name": "react-essentials",
-    "displayName": "🔥 React Essentials 🔥",
+    "displayName": "React Essentials 🌟",
     "description":
       "collection of must-have extensions for React developers.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "mikeshaker",
     "icon": "images/react-essentials.png",
     "repository": {
