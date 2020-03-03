@@ -24,6 +24,6 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
  * [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) by Christian Kohler: autocompletes npm modules in import statements
 
- * [streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) by Street Side Software : Spelling checker for source code
+ * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) by Street Side Software : Spelling checker for source code
 
  * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) by Christian Kohler: autocompletes filenames
