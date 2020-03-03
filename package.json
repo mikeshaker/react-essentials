@@ -1,0 +1,30 @@
+{
+    "name": "react-essentials",
+    "displayName": "React Essentials 🔥",
+    "description":
+      "collection of extensions for React developers.",
+    "version": "1.0.0",
+    "publisher": "mikeshaker",
+    "icon": "images/react-essentials.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mikeshaker/react-essentials.git"
+    },
+    "keywords": ["React", "React JS", "React Snippets"],
+    "engines": {
+      "vscode": "^1.42.0"
+    },
+    "categories": ["Extension Packs"],
+    "extensionDependencies": [
+      "dsznajder.es7-react-js-snippets",
+      "xabikos.javascriptsnippets",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "capaj.vscode-exports-autocomplete",  
+      "angryobject.react-pure-to-class-vscode",
+      "Shan.code-settings-sync",
+      "christian-kohler.npm-intellisense",
+      "streetsidesoftware.code-spell-checker",
+      "christian-kohler.path-intellisense"
+    ]
+  }
