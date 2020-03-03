@@ -1,18 +1,17 @@
 # React Essentials
 
-A collection of top extensions for React developers.
+A collection of must-have extensions for React developers.
 
 ![React Essentials](images/react-essentials.png)
-
 
 ## Extensions Included
 
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) by dsznajder
 Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
-* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets) by charalampos karypidis : Code snippets for JavaScript in ES6 syntax
+* [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) by kamikillerto: help visualize css colors in files.
 
-* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by Esben Petersen: Code formatter using prettier
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by Esben Petersen: Code formatter using prettier.
 
  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) by Dirk Baeumer : Integrates ESLint JavaScript into VS Code.
 
@@ -24,6 +23,7 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
  * [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) by Christian Kohler: autocompletes npm modules in import statements
 
+ * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) by Christian Kohler: autocompletes filenames
+
  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) by Street Side Software : Spelling checker for source code
 
- * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) by Christian Kohler: autocompletes filenames
